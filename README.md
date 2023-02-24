@@ -1,4 +1,4 @@
-![2](https://user-images.githubusercontent.com/113164685/221199710-ae90978e-a5f6-4aff-945f-30d6cb15cc24.png)
+
 # OIBSIP_Task1
 
                   level 1  task 1  landing page 
@@ -6,7 +6,7 @@
   
   
   ![1](https://user-images.githubusercontent.com/113164685/221197618-b417c522-186f-45c6-b842-8ac6c109a575.png)
-![Uploading 2
+   ![2](https://user-images.githubusercontent.com/113164685/221199710-ae90978e-a5f6-4aff-945f-30d6cb15cc24.png)
 ![3](https://user-images.githubusercontent.com/113164685/221197670-5a984957-961c-42b1-82ff-479b6a7bb33f.png)
 .png…]()![4](https://user-images.githubusercontent.com/113164685/221197682-fbfef6f5-c715-4e1f-b537-b05344239b10.png)
 ![5](https://user-images.githubusercontent.com/113164685/221197692-3bc68492-59cb-4ad1-a74a-6819a220cc03.png)
